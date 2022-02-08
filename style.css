@@ -1,0 +1,12 @@
+body
+{
+    background-image: url("Image.jpg");
+    background-size: cover;
+    background-position: center;
+}
+.btn1, .btn2, .btn3
+{
+    height: 50px;
+    width: 300px;
+    margin-top: 50px;
+}
